@@ -4,7 +4,8 @@ description: 'Distinguish true luxury from vulgar ostentation. Evaluate and repo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4415
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - luxury-positioning
 - transformation
